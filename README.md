@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solidity framework**
 
-- 📫 How to reach me **wd7a@protonmail.com**
+- 📫 How to reach me maybe on my **https://www.patreon.com/0xwd7**
 
 - ⚡ Fun fact **I'm not funny at all**
 
