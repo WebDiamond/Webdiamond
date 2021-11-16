@@ -7,7 +7,9 @@
 
 - 🌱 I’m currently learning **Solidity framework**
 
-- 📫 How to reach me maybe on my **https://www.patreon.com/0xwd7** or discord server **https://discord.gg/6YFjuMX6h3**
+- 📫 How to reach me maybe on my discord server **https://discord.gg/6YFjuMX6h3**
+
+- <a href="https://patreon.com/0xwd7"><img src="https://emoji.gg/assets/emoji/Patreon.png" width="32px" height="32px" alt="Patreon"></a> 
 
 - ⚡ Fun fact **I'm not funny at all**
 
