@@ -9,7 +9,7 @@
 
 - 📫 How to reach me maybe on my discord server **https://discord.gg/6YFjuMX6h3**
 
-- <a href="https://patreon.com/0xwd7"><img src="https://emoji.gg/assets/emoji/Patreon.png" width="32px" height="32px" alt="Patreon"></a> 
+- <a href="https://patreon.com/0xwd7"><img src="https://emoji.gg/assets/emoji/Patreon.png" width="16px" height="16px" alt="Patreon"></a> Check my Patreon 
 
 - ⚡ Fun fact **I'm not funny at all**
 
