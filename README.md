@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web and blockchain developer from Italy</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=webdiamond&label=Profile%20views&color=0e75b6&style=flat" alt="webdiamond" />
+  <img src="https://komarev.com" alt="webdiamond" />
 </p>
 
 - 🔭 I'm currently working on **Blockchain projects**
@@ -12,29 +12,32 @@
 
 ⚡ How to reach me? Here are some channels! ⚡
 
-- <a href="https://discord.gg/6YFjuMX6h3"><img src="https://emoji.gg/assets/emoji/9558-valorant-discord-logo.png" width="16px" height="16px" alt="Discord"></a> Check out my Discord server
-- <a href="https://patreon.com/0xwd7"><img src="https://emoji.gg/assets/emoji/Patreon.png" width="16px" height="16px" alt="Patreon"></a> Support me on Patreon
-- <a href="https://www.youtube.com/channel/UCRMoS7NLfy5m6EASeTYPgow"><img src="https://emoji.gg/assets/emoji/7215-youtube-playbutton.png" width="16px" height="16px" alt="Youtube_playbutton"></a> Visit my YouTube channel
+- <a href="https://discord.gg"><img src="https://emoji.gg" width="16px" height="16px" alt="Discord"></a> Check out my Discord server
+- <a href="https://patreon.com"><img src="https://emoji.gg" width="16px" height="16px" alt="Patreon"></a> Support me on Patreon
+- <a href="https://youtube.com"><img src="https://emoji.gg" width="16px" height="16px" alt="Youtube_playbutton"></a> Visit my YouTube channel
 
 ---
 
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,expo,solidity,aws,bash,linux,vscode,firebase,docker&perline=18" />
+  <img src="https://skillicons.dev" height="48" alt="JS, TS, React" />
+  <img src="https://iconify.design" height="48" alt="Expo" />
+  <img src="https://skillicons.dev" height="48" alt="Solidity, AWS, Bash, Linux, VS Code, Firebase, Docker" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=webdiamond&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=webdiamond&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=webdiamond" alt="GitHub Streak" />
+  <img src="https://demolab.com" alt="GitHub Streak" />
 </p>
+
 
