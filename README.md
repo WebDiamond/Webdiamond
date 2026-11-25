@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm WebDiamond</h1>
-<h3 align="center">A passionate web and blockchain developer from Italy</h3>
+<h3 align="center">A passionate developer from Italy</h3>
 
 <p align="center">
   <img src="https://komarev.com" alt="webdiamond" />
