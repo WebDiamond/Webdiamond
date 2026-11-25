@@ -5,8 +5,8 @@
   <img src="https://komarev.com" alt="webdiamond" />
 </p>
 
-- 🔭 I'm currently working on **Blockchain projects**
-- 🌱 I'm currently learning **Solidity and smart contract development**
+- 🔭 I'm currently working on **Multi Agents System Projects and Ai Agent powered CRM**
+- 🌱 I'm currently learning **Multi Agent System with Claude code SubAgents**
 
 ---
 
