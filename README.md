@@ -21,7 +21,7 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,solidity,aws,bash,linux,vscode,firebase,docker&perline=18" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,expo,solidity,aws,bash,linux,vscode,firebase,docker&perline=18" />
 </p>
 
 ---
